@@ -1,0 +1,37 @@
+[
+    {
+        "name": "John",
+        "surname": "Carpenter",
+        "gender": "Male",
+        "favoriteColor": "Black",
+        "dateOfBirth": "1972-10-02"
+    },
+    {
+        "name": "Billie",
+        "surname": "Holliday",
+        "gender": "Female",
+        "favoriteColor": "Red",
+        "dateOfBirth": "1918-05-15"
+    },
+    {
+        "name": "Devin",
+        "surname": "Townsend",
+        "gender": "Male",
+        "favoriteColor": "Blue",
+        "dateOfBirth": "1985-07-25"
+    },
+    {
+        "name": "Winona",
+        "surname": "Ryder",
+        "gender": "Female",
+        "favoriteColor": "Green",
+        "dateOfBirth": "1985-08-02"
+    },
+    {
+        "name": "Sam",
+        "surname": "Alice",
+        "gender": "Female",
+        "favoriteColor": "Pink",
+        "dateOfBirth": "1942-10-02"
+    }
+]
